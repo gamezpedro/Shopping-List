@@ -1,0 +1,1 @@
+Shopping List designed using jQuery 
