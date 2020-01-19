@@ -1,0 +1,27 @@
+
+ul{
+    list-style-type: none;
+    
+}
+
+li {
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border: 1px solid rgb(156, 154, 154);
+    }
+
+.tachado{
+    text-decoration: line-through;
+}
+
+.normal{
+    text-decoration: none;
+}
+
+p{
+    padding: 10px;
+    font-size: 20px;
+    font-style: italic bold;
+    color: rgb(156, 154, 154);
+    font: Verdana, sans-serif;
+}
